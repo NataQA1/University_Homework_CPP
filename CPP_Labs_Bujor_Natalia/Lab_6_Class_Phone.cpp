@@ -271,6 +271,7 @@ int main() {
                     cin.ignore(numeric_limits<streamsize>::max(), '\n');
                     break;
                 }
+
                 if (index >= 1 && index <= size) {
                     cout << "Enter the amount to increase price (in EUR): ";
                     if (!(cin >> increase)) {
