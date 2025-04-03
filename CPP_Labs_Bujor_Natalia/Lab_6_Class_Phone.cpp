@@ -21,7 +21,7 @@ public:
     Phone(string imei_, string brand_, string model_, string color_, string country_, double price_)
         : imei(imei_), brand(brand_), model(model_), color(color_), country(country_), price(price_) {}
 
-    // Конструктор с некоторыми параметрами (например, только IMEI, бренд и цена)
+    // Конструктор с некоторыми параметрами (только IMEI, бренд и цена)
     Phone(string imei_, string brand_, double price_)
         : imei(imei_), brand(brand_), model("Unknown"), color("Unknown"), country("Unknown"), price(price_) {}
 
@@ -47,7 +47,7 @@ public:
              << ", Color: " << color << ", Country: " << country << ", Price (EUR): " << price << endl;
     }
 
-    // Функция для конвертации цены из евро в леи (1 EUR = 19.5 MDL, например)
+    // Функция для конвертации цены из евро в леи (1 EUR = 19.5 MDL)
     double convertPriceToLei() const {
         const double exchangeRate = 19.5; // Курс евро к леям
         return price * exchangeRate;
