@@ -91,6 +91,24 @@ build CMakeFiles/untitled.dir/CPP_Labs_Bujor_Natalia/Lab_6_Class_Phone.cpp.obj: 
   OBJECT_DIR = CMakeFiles\untitled.dir
   OBJECT_FILE_DIR = CMakeFiles\untitled.dir\CPP_Labs_Bujor_Natalia
 
+build CMakeFiles/untitled.dir/CPP_Labs_Bujor_Natalia/Lab_7_Legacy.cpp.obj: CXX_COMPILER__untitled_unscanned_Debug C$:/Users/bujor/CLionProjects/untitled/CPP_Labs_Bujor_Natalia/Lab_7_Legacy.cpp || cmake_object_order_depends_target_untitled
+  DEP_FILE = CMakeFiles\untitled.dir\CPP_Labs_Bujor_Natalia\Lab_7_Legacy.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\untitled.dir
+  OBJECT_FILE_DIR = CMakeFiles\untitled.dir\CPP_Labs_Bujor_Natalia
+
+build CMakeFiles/untitled.dir/CPP_Labs_Bujor_Natalia/Lab_8_Abstract_Class.cpp.obj: CXX_COMPILER__untitled_unscanned_Debug C$:/Users/bujor/CLionProjects/untitled/CPP_Labs_Bujor_Natalia/Lab_8_Abstract_Class.cpp || cmake_object_order_depends_target_untitled
+  DEP_FILE = CMakeFiles\untitled.dir\CPP_Labs_Bujor_Natalia\Lab_8_Abstract_Class.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\untitled.dir
+  OBJECT_FILE_DIR = CMakeFiles\untitled.dir\CPP_Labs_Bujor_Natalia
+
+build CMakeFiles/untitled.dir/CPP_Labs_Bujor_Natalia/Lab_9_Templates.cpp.obj: CXX_COMPILER__untitled_unscanned_Debug C$:/Users/bujor/CLionProjects/untitled/CPP_Labs_Bujor_Natalia/Lab_9_Templates.cpp || cmake_object_order_depends_target_untitled
+  DEP_FILE = CMakeFiles\untitled.dir\CPP_Labs_Bujor_Natalia\Lab_9_Templates.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\untitled.dir
+  OBJECT_FILE_DIR = CMakeFiles\untitled.dir\CPP_Labs_Bujor_Natalia
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target untitled
@@ -99,7 +117,7 @@ build CMakeFiles/untitled.dir/CPP_Labs_Bujor_Natalia/Lab_6_Class_Phone.cpp.obj: 
 #############################################
 # Link the executable untitled.exe
 
-build untitled.exe: CXX_EXECUTABLE_LINKER__untitled_Debug CMakeFiles/untitled.dir/main.cpp.obj CMakeFiles/untitled.dir/CPP_Labs_Bujor_Natalia/Lab_1.cpp.obj CMakeFiles/untitled.dir/CPP_Labs_Bujor_Natalia/Lab_2.cpp.obj CMakeFiles/untitled.dir/CPP_Labs_Bujor_Natalia/Lab_3.cpp.obj CMakeFiles/untitled.dir/CPP_Labs_Bujor_Natalia/Lab_4.cpp.obj CMakeFiles/untitled.dir/CPP_Labs_Bujor_Natalia/Lab_5.cpp.obj CMakeFiles/untitled.dir/CPP_Labs_Bujor_Natalia/Lab_6_Class_Phone.cpp.obj
+build untitled.exe: CXX_EXECUTABLE_LINKER__untitled_Debug CMakeFiles/untitled.dir/main.cpp.obj CMakeFiles/untitled.dir/CPP_Labs_Bujor_Natalia/Lab_1.cpp.obj CMakeFiles/untitled.dir/CPP_Labs_Bujor_Natalia/Lab_2.cpp.obj CMakeFiles/untitled.dir/CPP_Labs_Bujor_Natalia/Lab_3.cpp.obj CMakeFiles/untitled.dir/CPP_Labs_Bujor_Natalia/Lab_4.cpp.obj CMakeFiles/untitled.dir/CPP_Labs_Bujor_Natalia/Lab_5.cpp.obj CMakeFiles/untitled.dir/CPP_Labs_Bujor_Natalia/Lab_6_Class_Phone.cpp.obj CMakeFiles/untitled.dir/CPP_Labs_Bujor_Natalia/Lab_7_Legacy.cpp.obj CMakeFiles/untitled.dir/CPP_Labs_Bujor_Natalia/Lab_8_Abstract_Class.cpp.obj CMakeFiles/untitled.dir/CPP_Labs_Bujor_Natalia/Lab_9_Templates.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\untitled.dir

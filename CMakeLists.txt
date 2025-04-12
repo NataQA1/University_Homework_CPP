@@ -10,4 +10,7 @@ add_executable(untitled main.cpp
         CPP_Labs_Bujor_Natalia/Lab_4.cpp
         CPP_Labs_Bujor_Natalia/Lab_5.cpp
         CPP_Labs_Bujor_Natalia/Lab_6_Class_Phone.cpp
+        CPP_Labs_Bujor_Natalia/Lab_7_Legacy.cpp
+        CPP_Labs_Bujor_Natalia/Lab_8_Abstract_Class.cpp
+        CPP_Labs_Bujor_Natalia/Lab_9_Templates.cpp
 )
